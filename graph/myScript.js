@@ -13,7 +13,7 @@ Line.prototype.drawit = function(){
     var mypen = new drawingBoard();
 
     var slope = -1*(parseInt(this.X)/parseInt(this.Y));
-    var c = parseInt(this.C)/parseInt(this.Y);
+    var Yintercept = parseInt(this.C)/parseInt(this.Y);
 
 
     var start=parseInt(document.getElementById("x1").value);
@@ -21,21 +21,13 @@ Line.prototype.drawit = function(){
     var step=parseInt(document.getElementById("step").value);
 
     var stepsize=parseInt(-(start-end)/step);
-    var nx=start+500;
+    var newx=start+500;
     for( var i=0;i<stepsize;i++){
-        //alert("next newx "+newx)
-        //alert("x1 "+newx);
-
-        var ny = 500-((nx-500)*slope + c );
-        //alert("y1 "+newy);
-        var nxend=nx+step;
-        //alert("x2 "+newxend);
-        var nyend =500-((nxend-500)*slope + c );
-        //alert("y2 "+newyend);
-
-        DrawLine(nx,ny,nxend,nyend,mypen.pen);
-
-        nx=nx+step;
+        var newy = 500-((newx-500)*slope + Yintercept );
+        var newxend=newx+step;
+        var newyend =500-((newxend-500)*slope + Yintercept );
+        DrawLine(newx,newy,newxend,newyend,mypen.pen);
+        newx=newx+step;
     }
 }
 
@@ -63,11 +55,7 @@ function processEqn(){
     var t1=parseInt(str.substring(0,str.indexOf("X")));
     var t2=parseInt(str.substring(str.indexOf("X")+1,str.indexOf("Y")));
     var t3=parseInt(str.substring(str.indexOf("=")+1));
-
-
     var plot = new Line(t1,t2,t3);
-
-
     return plot;
 }
 

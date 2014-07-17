@@ -1,0 +1,1000 @@
+  371  ./a.out 
+  372  g++ hi.cpp
+  373  ./a.out 
+  374  g++ hi.cpp
+  375  ./a.out 
+  376  g++ hi.cpp
+  377  ./a.out 
+  378  g++ hi.cpp
+  379  ./a.out 
+  380  g++ hi.cpp
+  381  ./a.out 
+  382  g++ hi.cpp
+  383  ./a.out 
+  384  g++ hi.cpp
+  385  ./a.out 
+  386  g++ hi.cpp
+  387  ./a.out 
+  388  g++ hi.cpp
+  389  ./a.out 
+  390  g++ hi.cpp
+  391  ./a.out 
+  392  g++ hi.cpp
+  393  ./a.out 
+  394  g++ hi.cpp
+  395  ./a.out 
+  396  g++ hi.cpp
+  397  ./a.out 
+  398  g++ hi.cpp
+  399  ./a.out 
+  400  g++ hi.cpp
+  401  ./a.out 
+  402  g++ hi.cpp
+  403  ./a.out 
+  404  g++ hi.cpp
+  405  ./a.out 
+  406  g++ hi.cpp
+  407  ./a.out 
+  408  g++ hi.cpp
+  409  ./a.out 
+  410  g++ hi.cpp
+  411  ./a.out 
+  412  g++ hi.cpp
+  413  ./a.out 
+  414  g++ hi.cpp
+  415  ./a.out 
+  416  g++ hi.cpp
+  417  ./a.out 
+  418  argouml
+  419  argo uml
+  420  uml
+  421  cd Desktop/
+  422  su
+  423  webonise6186
+  424  su
+  425  yum
+  426  sudo apt-get install yum
+  427  clear
+  428  ls
+  429  cd ..
+  430  cd Desktop/
+  431  cd Sublime\ Text\ 2/
+  432  ls
+  433  sublime_text
+  434  chmod +x sublime_text 
+  435  chmod +x ~/Downloads/jdk-8-nb-8-linux-*.sh
+  436  cd Downloads/
+  437  ls
+  438  sudo apt-get install netbeans 
+  439  netbeans 
+  440  java
+  441  sudo apt-get install openjdk-7-jre
+  442  cd 
+  443  chmod +x netbeans-8.0-linux.sh
+  444  sudo apt-get install chmod
+  445  cd Downloads/
+  446  chmod +x netbeans-8.0-linux.sh 
+  447  ./netbeans-8.0-linux.sh 
+  448  jdk
+  449  sudo apt-get install default-jdk
+  450  sudo apt-get install default-jre
+  451  sudo apt-get install openjdk-7-jre
+  452  sudo apt-get install openjdk-7-jdk 
+  453  chmod +x netbeans-8.0-linux.sh 
+  454  ./netbeans-8.0-linux.sh 
+  455  cd Desktop/
+  456  ls
+  457  cd node-v0.10.29/
+  458  ls
+  459  cd ..
+  460  sudo apt-get install python-software-properties
+  461  sudo add-apt-repository ppa:chris-lea/node.js
+  462  sudo apt-get update 
+  463  sudo apt-get install nodejs
+  464  git
+  465  git --version 
+  466  git --help 
+  467  sudo apt-get install nodejs
+  468  sudo apt-get update nodejs
+  469  cordova
+  470  npm install cordova
+  471  cordova --version
+  472  sudo apt-get install cordova
+  473  npm config set registry http://registry.npmjs.org/
+  474  cordova --version
+  475  where cordova
+  476  which cordova
+  477  $ sudo npm install cordova
+  478  $ sudo npm install -g cordova
+  479  sudo apt-get install cordova
+  480  sudo apt-get install -g cordova
+  481  wine
+  482  wine --version
+  483  update wine
+  484  sudo apt-get update 
+  485  cd Downloads/
+  486  ls
+  487  wine
+  488  wine BlueStacks-SplitInstaller_native.exe 
+  489  Mono
+  490  mono
+  491  sudo apt-get install mono
+  492  sudo apt-get install mono-runtime
+  493  wine BlueStacks-SplitInstaller_native.exe 
+  494  sudo apt-get update 
+  495  wine BlueStacks-SplitInstaller_native.exe 
+  496  mono
+  497  mono BlueStacks-SplitInstaller_native.exe 
+  498  vls
+  499  vlc
+  500  sudo apt-get install vlc
+  501  cd Downloads/
+  502  ls
+  503  vlc Rihanna\ Ft.\ Eminem\ -\ Love\ The\ Way\ You\ Lie\ \(Part\ 2\)\ -\ YouTube.3gp 
+  504  winetricks dotnet20
+  505  wine BlueStacks-SplitInstaller_native.exe 
+  506  cd Downloads/
+  507  wine BlueStacks-SplitInstaller_native.exe 
+  508  sudo apt-get update 
+  509  wine /home/webonise/Downloads/ BlueStacks-SplitInstaller_native.exe 
+  510  cd Downloads/
+  511  wine BlueStacks-SplitInstaller_native.exe 
+  512  mono
+  513  update mono
+  514  uupdate mono
+  515  sudo apt-get update 
+  516  top
+  517  ls -a
+  518  cd ..
+  519  cd /
+  520  ls
+  521  ls -a
+  522  cd boot/
+  523  ls
+  524  sudo apt-get install vlc
+  525  vlc
+  526  sudo apt-get update 
+  527  winetricks dotnet20
+  528  wine /home/webonise/Downloads/ BlueStacks-SplitInstaller_native.exe 
+  529  cd Downloads/
+  530  wine BlueStacks-SplitInstaller_native.exe 
+  531  mono
+  532  update mono
+  533  sudo apt-get update 
+  534  \
+  535  sudo apt-get upgrade 
+  536  top
+  537  echo "yo babay"
+  538  print "yo baby"
+  539  file
+  540  file --help
+  541  cd ..
+  542  ls
+  543  cd NetBeansProjects/CppApplication_1/
+  544  ls
+  545  gcc main.cpp 
+  546  cd Downloads/
+  547  wine bluestacks-app-player-0-8-10-3096-en.exe 
+  548  wine BlueStacks-SplitInstaller_native.exe 
+  549  sudo apt-get install mono-vbnc
+  550  wine BlueStacks-SplitInstaller_native.exe 
+  551  sudo apt-get install mono-complete
+  552  add-apt-repository ppa:ubuntu-wine/ppa
+  553  su
+  554  sudo su -l
+  555  su
+  556  sudo su -l
+  557  cd Desktop/
+  558  cd ..
+  559  cd Downloads/
+  560  wine BlueStacks-SplitInstaller_native.exe 
+  561  winetricks 
+  562  cd Downloads/
+  563  wine BlueStacks-SplitInstaller_native.exe 
+  564  cd Downloads/
+  565  wine BlueStacks-SplitInstaller_native.exe 
+  566  sudo apt-get update 
+  567  wine BlueStacks-SplitInstaller_native.exe 
+  568  sudo apt-get install mono-complete
+  569  sudo apt-get update 
+  570  wine BlueStacks-SplitInstaller_native.exe 
+  571  wine --v
+  572  wine
+  573  wine --version
+  574  sudo apt-get install wine-1.5.3
+  575  sudo apt-get install wine 1.5.3
+  576  wine BlueStacks-SplitInstaller_native.exe 
+  577  cvbh
+  578  wine BlueStacks-SplitInstaller_native.exe 
+  579  sudo apt-get install wine
+  580  sudo apt-get install winetricks 
+  581  sudo apt-get install mono
+  582  sudo apt-get install gecko
+  583  cd Downloads/
+  584  wine BlueStacks-SplitInstaller_native.exe 
+  585  sudo apt-get update 
+  586  wine BlueStacks-SplitInstaller_native.exe 
+  587  wine
+  588  wine --version
+  589  update mono
+  590  sudo apt-get update 
+  591  top -c
+  592  top -a
+  593  top -p 5
+  594  top
+  595  top -p 15079
+  596  cd Downloads/
+  597  ls
+  598  vlc ls
+  599  ls
+  600  vlc Flo\ Rida\ feat.\ David\ Guetta\ -\ Club\ Can\'t\ Handle\ Me\ -\ Step\ Up\ 3D\ Music\ Video\ -\ YouTube.3gp 
+  601  cvlc Flo\ Rida\ feat.\ David\ Guetta\ -\ Club\ Can\'t\ Handle\ Me\ -\ Step\ Up\ 3D\ Music\ Video\ -\ YouTube.3gp 
+  602  cd /home/
+  603  ls
+  604  cd /home/webonise/Desktop/Sublime\ Text\ 2/
+  605  ls
+  606  exec sublime_text
+  607  exec echo "yo baby"
+  608  chromium
+  609  chrome
+  610  sudo apt-get update 
+  611  cd Downloads/
+  612  wine BlueStacks-SplitInstaller_native.exe 
+  613  cd Downloads/
+  614  wine BlueStacks-SplitInstaller_native.exe 
+  615  winetricks 
+  616  wineprefix
+  617  wine
+  618  wine BlueStacks-SplitInstaller_native.exe 
+  619  cd Downloads/
+  620  wine BlueStacks-SplitInstaller_native.exe 
+  621  sudo apt-get update 
+  622  wine BlueStacks-SplitInstaller_native.exe 
+  623  wine
+  624  wine --version
+  625  winetricks
+  626  cd /
+  627  ls -a
+  628  cd home/
+  629  ls -a
+  630  cd webonise/
+  631  ls -a
+  632  cd .wine/
+  633  ls
+  634  kde
+  635  wine BlueStacks-SplitInstaller_native.exe 
+  636  CD ..
+  637  cd ..
+  638  cd Downloads/
+  639  wine BlueStacks-SplitInstaller_native.exe 
+  640  wine
+  641  sudo apt-get update 
+  642  wine BlueStacks-SplitInstaller_native.exe 
+  643  exit
+  644  wine
+  645  gecko
+  646  wine-gecko
+  647  sudo apt-get update 
+  648  sudo apt-get install wine
+  649  sudo apt-get update 
+  650  cd Desktop/
+  651  wine BlueStacks-SplitInstaller_native.exe 
+  652  wineserver 
+  653  kill wineser
+  654  top
+  655  top --help
+  656  top -p
+  657  top
+  658  top -c
+  659  wineserver 
+  660  kill wineserver
+  661  stop wineserver
+  662  top
+  663  top -c
+  664  top --help
+  665  top -p 24896
+  666  top
+  667  wine /Downloads/BlueStacks-SplitInstaller_native.exe 
+  668  cd ..
+  669  cd Downloads/
+  670  wine /Downloads/BlueStacks-SplitInstaller_native.exe 
+  671  wine BlueStacks-SplitInstaller_native.exe 
+  672  sudo apt-get install xampp
+  673  sudo apt-get install lampp
+  674  sudo apt-get install mysql
+  675  mysql
+  676  sudo apt-get install mysql-client-core-5.5
+  677  cd Downloads/
+  678  chmod +x xampp-linux-x64-1.8.2-5-installer.run 
+  679  ./xampp-linux-x64-1.8.2-5-installer.run 
+  680  su
+  681  sudo su -l
+  682  cd Downloads/
+  683  chmod +x xampp-linux-x64-1.8.2-5-installer.run 
+  684  ./xampp-linux-x64-1.8.2-5-installer.run 
+  685  sudo su -l
+  686  cd share/
+  687  ls
+  688  xampp-control-panel/
+  689  ./ xampp-control-panel/
+  690  cd xampp-control-panel/
+  691  ls
+  692  xampp-control-panel
+  693  sudo xampp-control-panel
+  694  sudo /opt/lampp/manager-linux.run
+  695  sudo /opt/lampp/share/xampp-control-panel/xampp-control-panel
+  696  sudo /opt/lampp/manager-linux.run
+  697  ls
+  698  cd ..
+  699  ls
+  700  cd ..
+  701  ls
+  702  cd opt/
+  703  ls
+  704  cd lampp/
+  705  ls
+  706  ./manager-linux-x64.run
+  707  su
+  708  sudo su -l
+  709  sudo apt-get upgrade 
+  710  cd ..
+  711  ./manager-linux-x64.run
+  712  ./opt/lAMPP/manager-linux-x64.run
+  713  ./opt/lampp/manager-linux-x64.run
+  714  su
+  715  sudo su -l
+  716  cd Downloads/
+  717  wine BlueStacks-SplitInstaller_native.exe 
+  718  exit
+  719  java
+  720  java -version
+  721  java
+  722  which
+  723  which java
+  724  whoami
+  725  where java
+  726  what java
+  727  openjdk-7-jdk
+  728  sudp apt-get install openjdk-7-jdk
+  729  sudo apt-get install openjdk-7-jdk
+  730  sudo apt-get install openjdk-8-jdk
+  731  sudo apt-get install openjdk-7-jre
+  732  mysql
+  733  mongodb
+  734  mongodb-server
+  735  sudo apt-get install mondodb-server
+  736  sudo apt-get install mongodb-server
+  737  mongodb
+  738  mongodb-server
+  739  sudo apt-get install mysql-workbench
+  740  mysql-workbench
+  741  sudo su -l
+  742  oracle
+  743  sudo su -l
+  744  wget -c http://oss.oracle.com/debian/dists/unstable/main/binary-i386/libaio_0.3.104-1_i386.deb
+  745  wget -c http://oss.oracle.com/debian/dists/unstable/main/binary-i386/libaio_0.3.104-1_i386.deb http://oss.oracle.com/debian/dists/unstable/non-free/binary-i386/oracle-xe-universal_10.2.0.1-1.1_i386.deb
+  746  mysql
+  747  mysql -u root -l
+  748  mysql -u root -p
+  749  sudo apt-get uninstall mysql-server
+  750  mysql-workbench
+  751  mongodb
+  752  sudo apt-get mongod-server
+  753  sudo apt-get install mongod-server
+  754  sudo apt-get install mongodb-server
+  755  mongod
+  756  sudo apt-get install mongodb-org
+  757  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+  758  echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' | sudo tee /etc/apt/sources.list.d/mongodb.list
+  759  sudo apt-get update
+  760  sudo apt-get install mongodb-org
+  761  apt-get install mongodb-org=2.6.1 mongodb-org-server=2.6.1 mongodb-org-shell=2.6.1 mongodb-org-mongos=2.6.1 mongodb-org-tools=2.6.1
+  762  sudo su -l
+  763  mongogd
+  764  mongodb
+  765  start mongodb
+  766  mysql -u root -p
+  767  mysql -u root -p
+  768  select count(is_it_correct) from
+  769  ( select question_option.is_it_correct from ans_given inner join question_option on (ans_given.options=question_option.options 
+  770  and question_id in  
+  771  select question_id from question where assess_id in
+  772  ( select assess_id from user where user_id = 1
+  773  )
+  774  ) as temp
+  775  where temp.is_it_correct=1;select count(is_it_correct) from
+  776  ( select question_option.is_it_correct from ans_given inner join question_option on 
+  777  ( ans_given.options=question_option.options ;  and question_id in  ;  select question_id from question where assess_id in
+  778  ( select assess_id from user where user_id = 1
+  779  )
+  780  ) as temp
+  781  where temp.is_it_correct=1;
+  782  mysql -u root -l
+  783  mysql -u root -p
+  784  select user.user_id, user.assess_id from user inner join question on 
+  785  (  user.assess_id = question.assess_id  );
+  786  mysql -u root -p
+  787  select temp.user_id, user.assess_id, temp.question_id, question_stmt, options, is_it_correct from user inner join temp where temp.user_id=user.user_id;
+  788  mysql -u root -p
+  789  start mongod
+  790  service start mongod
+  791  mongod start
+  792  sudo mongod start
+  793  sudo /etc/init.d/mongod start
+  794  start mongod
+  795  sudo su -l
+  796  sudo -s su -p
+  797  mysql
+  798  su webonise
+  799  sudo -s su -p
+  800  hostname
+  801  echo hostname
+  802  cd Desktop/
+  803  ./ass.sh
+  804  chmod +x ass.sh 
+  805  ./ass.sh 
+  806  lsb _release -a
+  807  uname -a 
+  808  cat /proc/version
+  809  cat /etc/issue
+  810  pwd
+  811  ls -d $PWD/*
+  812  $PWD
+  813  ./ass.sh 
+  814  cat /etc/issue
+  815  ./ass.sh 
+  816  uname -a
+  817  users
+  818  ./ass.sh 
+  819  groups
+  820  ls -t
+  821  ls -r
+  822  ls -lR
+  823  ls -l dir | grep -v '^d'
+  824  ls -l /home/webonise | grep -v '^d'
+  825  ls -lR
+  826  ls -r
+  827  $PATH
+  828  path
+  829  pwd
+  830  ./ass.sh 
+  831  cat /etc/passwd | grep $USER
+  832  cat /etc/passwd | grep $USER | cut -d ":" 5
+  833  man cut
+  834  cat /etc/passwd | grep $USER | cut -d ":" -f 5
+  835  cat /etc/passwd | grep $USER | cut -d ":" -f 6
+  836  start mongo
+  837  start mongod
+  838  show
+  839  show bd
+  840  mongo
+  841  start mongod
+  842  mongo
+  843  mysql -u root -p
+  844  sudo -s su -p
+  845  mongo
+  846  start mongod
+  847  start service mongod
+  848  start service mongo
+  849  mongod start
+  850  sudo /etc/init.d/mongod start
+  851  start mongod
+  852  service mongod start
+  853  sudo /etc/init.d/mongod start
+  854  mongo
+  855  sudo /etc/init.d/mongod restart
+  856  mongo
+  857  sudo /etc/init.d/mongod restart
+  858  mongo
+  859  sudo /etc/init.d/mongod restart
+  860  mongo
+  861  mongod
+  862  mongod --help
+  863  mongod --version
+  864  sudo /etc/init.d/mongod restart
+  865  mongo
+  866  sudo /etc/init.d/mongod start
+  867  restart mongod
+  868  sudo -s su -p
+  869  restart mongod
+  870  sudo /etc/init.d/mongod start
+  871  mongo
+  872  restart mongod
+  873  sudo /etc/init.d/mongod restart
+  874  sudo -s su -p
+  875  restart mongod
+  876  mongo
+  877  cd Desktop/
+  878  ./ass.sh 
+  879  man uname
+  880  uname -o
+  881  uname -a
+  882  man uname
+  883  uname -v
+  884  man uname
+  885  uname -s
+  886  uname -m
+  887  ./ass.sh 
+  888  uname -v
+  889  uname -s
+  890  uname -o
+  891  ./ass.sh 
+  892  user
+  893  users
+  894  ./ass.sh 
+  895  uname -s
+  896  uname -v
+  897  ./ass.sh 
+  898  man uname
+  899  uname -o
+  900  uname -s
+  901  uname -v
+  902  uname -p
+  903  uname -m
+  904  uname -a
+  905  uname -osrv
+  906  uname -m
+  907  uname -o
+  908  uname -a
+  909  man uname
+  910  ./ass.sh 
+  911  who
+  912  Query for updating Assessment 1's question, and options to it.
+  913  db.assess.update( 
+  914  { 
+  915  { 
+  916  uestion.0.stmt":" changed question " ,
+  917  uestion.0.option.0.option1":"changed option 1"
+  918  uery for deleting Assessment 2's question 3's option 2.
+  919  db.assess.update( 
+  920  { 
+  921  { 
+  922  set: { 
+  923  uestion.2.option.1.option2":"moon"
+  924  man ls
+  925  uname -m
+  926  uname -v
+  927  uname -s
+  928  uname -n
+  929  r
+  930  uname -r
+  931  uname -v
+  932  uname -p
+  933  uname -i
+  934  ./ass.sh 
+  935  groups
+  936  cat /etc/group
+  937  cat /etc/passwd
+  938  cat /etc/group | grep 1000
+  939  cat /etc/group | grep webonise
+  940  groups
+  941  ./ass.sh 
+  942  who
+  943  ./ass.sh 
+  944  man ls
+  945  ls -d
+  946  ls /home/webonise/
+  947  ls
+  948  ls -a|grep -v "/"
+  949  ls
+  950  ls -a|grep -v "/"
+  951  find . -type f -maxdepth 1 -print
+  952  ls -l
+  953  ls -l | grep ^d
+  954  ls /home/webonise/ -l | gre
+  955  ls /home/webonise/ -l 
+  956  ls /home/webonise/ -l | grep ^d
+  957  ./ass.sh 
+  958  ls *.*
+  959  ls *.*;
+  960  ls *.*
+  961  ls *.*;
+  962  ls /home/webonise/ *.*;
+  963  /home/webonise/ ls *.*;
+  964  ./ass.sh 
+  965  ls /home/webonise/ -l | grep ^d
+  966  ls /home/webonise/ *.*;
+  967  ls /home/webonise/ -l | grep ^d
+  968  ls /home/webonise/ -l | grep *.*
+  969  ls /home/webonise/ -l | grep 
+  970  grep --help 
+  971  ls /home/webonise/ | grep *.*
+  972  ls *.*;
+  973  ./ass.sh 
+  974  ls -l
+  975  ls /home/webonise/ -l
+  976  ls -R /home/webonise/
+  977  ./ass.sh 
+  978  man ls
+  979  ./ass.sh 
+  980  echo $HOME
+  981  pwd
+  982  mkdir testing
+  983  cd testing/
+  984  ls
+  985  ./ass.sh 
+  986  mv *.txt 
+  987  ll
+  988  for file in *.png; do   mv "$file" "${file/_h.png/_half.png}"; done
+  989  for file in *.txt; do   mv "$file" "${file/_h.png/_half.png}"; done
+  990  for file in *.txt; do   mv "$file" "${file/changed.txt}"; done
+  991  ls
+  992  for file in *.txt; do   mv "$file" "$filechanged.txt"; done
+  993  ll
+  994  for file in *.txt  do   mv $file $file_changed.txt done; ;
+  995  for file in *.txt do mv $file $file_changed.txt done; ;
+  996  for file in $(ls *.txt) do mv $file $file_changed.txt done; ;
+  997  for file in $(ls *.txt) do mv $file $file_changed.txt done;  ;
+  998  for file in $(ls *.txt) do mv $file $file_changed.txt done; ;
+  999  for file in $(ls *.txt); do mv $file changed$file; done
+ 1000  ll
+ 1001  mv .txt t.txt
+ 1002  for file in $(ls *.txt); do mv $file changed$file; done
+ 1003  ll
+ 1004  for file in $(ls *.txt); do mv $file changed$file; done
+ 1005  for file in *.png; do   mv "$file" "${file/_h.png/_half.png}"; done
+ 1006  for file in *txt do mv $file oooo$file.txt done; ;
+ 1007  for file in *txt do mv $file oooo$file.txt done; ;
+ 1008  for file in $(ls *.txt); do mv $file cccccc$file; done
+ 1009  ls
+ 1010  for file in *txt do mv $file oooo$file.txt; done; 
+ 1011  for file in *txt do mv $file oooo$file.txt; done
+ 1012  for file in *txt do mv $file oooo$file.txt; ;
+ 1013  for file in *txt do mv $file oooo$file.txt;  done
+ 1014  ls
+ 1015  for file in *txt do mv "$file" "oooo$file.txt" done; ;
+ 1016  for file in *txt do mv "$file" "oooo$file.txt"; done
+ 1017  ls
+ 1018  for file in *txt do mv "$file" "${oooo$file.txt}"; done
+ 1019  ls
+ 1020  for file in *.txt do mv "$file" "${oooo$file.txt}"; done
+ 1021  for file in *.txt do mv "$file" "${oooo$file.txt}"; done
+ 1022  for file in *.txt do mv "$file" "${oooo$file.txt}" done; ;
+ 1023  for file in *.txt do mv "$file" "${oooo$file.txt}" done;  for file in *.txt do mv "$file" "${oooo$file.txt}" done; 
+ 1024  for file in *.txt do mv "$file" "${ooooofile.txt}"done; for file in *.txt
+ 1025  for file in *.txt ; do  mv "$file" "${ooooofile.txt}"; done
+ 1026  ls
+ 1027  for file in *.txt ; do  mv "$file" "${ooooofile.txt}"; done
+ 1028  for file in *.txt ; do  mv "$file" "ooooo$file.txt"; done
+ 1029  ls
+ 1030  ls *.txt
+ 1031  for file in *.txt ; do  mv "$file" "xx$file.txt"; done
+ 1032  ls *.txt
+ 1033  for file in x*.txt ; do
+ 1034  ls *.txt
+ 1035  date
+ 1036  hostname > assignment.log;
+ 1037  ls
+ 1038  gedit assignment.log 
+ 1039  uname -v >> assignment.log;
+ 1040  gedit assignment.log 
+ 1041  uname -m
+ 1042  uname -m date
+ 1043  uname -m;date
+ 1044  uname -m | date
+ 1045  uname -m || date
+ 1046  uname -m; date >> assignment.log;
+ 1047  gedit assignment.log 
+ 1048  sublime
+ 1049  una; date >> assignment.log;
+ 1050  hostname; date >> assignment.log;
+ 1051  gedit assignment.log 
+ 1052  $(hostname; date) >> assignment.log;
+ 1053  hostname; date | cat > assignment.log;
+ 1054  gedit assignment.log 
+ 1055  hostname && date | cat > assignment.log;
+ 1056  gedit assignment.log 
+ 1057  echo $(hostname && date) | cat > assignment.log;
+ 1058  gedit assignment.log 
+ 1059  echo $(hostname && d
+ 1060  ;
+ 1061  echo $(hostname && date)
+ 1062  $(hostname && date) | cat >
+ 1063  ./ass.sh 
+ 1064  ls
+ 1065  ./ass.sh 
+ 1066  gedit assignment.log 
+ 1067  for file in *.txt ; do  mv "$file" "xx$file"; done
+ 1068  for file in *.txt ; do  mv "$file" "xx$file"; done;
+ 1069  ls *.txt
+ 1070  for file in *.txt ; do  mv "$file" "xx$file"; done
+ 1071  ls *.txt
+ 1072  for file in *.txt ; do  mv "$file" "xx$file"; done;
+ 1073  ls *.txt
+ 1074  ls *.txt; >> assignment.log;
+ 1075  mkdir public_html;
+ 1076  ls
+ 1077  who; >> assignment.log;
+ 1078  gedit assignment.log 
+ 1079  uname -v
+ 1080  uname -v >> assignment.log;
+ 1081  gedit assignment.log 
+ 1082  date; >> assignment.log;
+ 1083  gedit assignment.log 
+ 1084  uname -v >> assignment.log;
+ 1085  gedit assignment.log 
+ 1086  uname -m >> assignment.log;
+ 1087  gedit assignment.log 
+ 1088  touch readme.txt;
+ 1089  touch public_html/readme.txt;
+ 1090  gedit assignment.log 
+ 1091  cd public_html
+ 1092  gedit readme.txt 
+ 1093  chmod 777 readme.txt 
+ 1094  home
+ 1095  $home
+ 1096  echo $home
+ 1097  echo $HOME
+ 1098  uname -vm
+ 1099  $HOME
+ 1100  echo $HOME
+ 1101  echo $HOME;
+ 1102  cd ..
+ 1103  ./11.sh
+ 1104  ./ass.sh 
+ 1105  ls
+ 1106  ./ass.sh 
+ 1107  echo "host name is ";
+ 1108  hostname > assignment.log;
+ 1109  echo "OS version and type " 
+ 1110  uname -vm >> assignment.log;
+ 1111  echo "The full path to your home directory";
+ 1112  echo $HOME;
+ 1113  echo "logged user ";
+ 1114  who >> assignment.log;
+ 1115  echo "Groups i belong to ";
+ 1116  groups >> assignment.log;
+ 1117  echo "All files in Home Direcoty Sub directories in Home Direcoty ";
+ 1118  ls -R /home/webonise/
+ 1119  date >> assignment.log;echo "host name is ";
+ 1120  hostname > assignment.log;
+ 1121  echo "OS version and type " 
+ 1122  uname -vm >> assignment.log;
+ 1123  echo "The full path to your home directory";
+ 1124  echo $HOME;
+ 1125  echo "logged user ";
+ 1126  who >> assignment.log;
+ 1127  echo "Groups i belong to ";
+ 1128  groups >> assignment.log;
+ 1129  echo "All files in Home Direcoty Sub directories in Home Direcoty ";
+ 1130  pwd
+ 1131  chmod +x command11.sh 
+ 1132  ./command11.sh 
+ 1133  ./command2.sh
+ 1134  chmod +x command1.sh 
+ 1135  ./command1.sh
+ 1136  ./command11.sh 
+ 1137  ./command1.sh 
+ 1138  ls -R /home/webonise/
+ 1139  ./command1.sh 
+ 1140  cat assignment.log 
+ 1141  ./command1.sh 
+ 1142  home
+ 1143  HOME
+ 1144  ./command3.sh 
+ 1145  chmod +x command3.sh 
+ 1146  ./command3.sh 
+ 1147  ls
+ 1148  sudo su -l
+ 1149  ls
+ 1150  mv newnamexss.txt public_html/
+ 1151  ls
+ 1152  cd public_html/
+ 1153  ls
+ 1154  cd ..
+ 1155  for file in *.sh; do mv "$file" /public_html; done;
+ 1156  pwd
+ 1157  ll
+ 1158  sudo su -l
+ 1159  cd ..
+ 1160  ls
+ 1161  cd ..
+ 1162  cd Desktop/testing/
+ 1163  ./command1.sh
+ 1164  ./command2.sh
+ 1165  chmod +x command2.sh
+ 1166  ./command2.sh
+ 1167  ./command3.sh
+ 1168  ./command4.sh
+ 1169  chmod +x command2.sh
+ 1170  chmod +x command4.sh
+ 1171  ./command4.sh
+ 1172  mv newnamexss.txt /public_html
+ 1173  chmod +x newnamexss.txt 
+ 1174  mv newnamexss.txt /public_html
+ 1175  sudo su -l
+ 1176  man cp
+ 1177  cd Desktop/testing/
+ 1178  ll
+ 1179  ./command6.sh
+ 1180  chmod +x command6.sh
+ 1181  ./command6.sh
+ 1182  ll
+ 1183  ./command6.sh
+ 1184  ll
+ 1185  ./command6.sh
+ 1186  cp public_html/ public_html/changed_dir/
+ 1187  cp public_html public_html/changed_dir/
+ 1188  cp public_html public_html/changed_dir
+ 1189  mkdir changed
+ 1190  cp public_html changed_dir
+ 1191  cp public_html changed
+ 1192  cp -r public_html changed
+ 1193  cp -r changed public_html
+ 1194  cp -r public_html changed_dir
+ 1195  cp -r changed_dir piblic_html
+ 1196  mv changed_dir public_html
+ 1197  ./command7.sh
+ 1198  chmod +x command7.sh
+ 1199  ./command7.sh
+ 1200  ./command1.sh
+ 1201  ./command2.sh
+ 1202  ./command3.sh
+ 1203  ./command4.sh
+ 1204  ./command5.sh
+ 1205  chmod +x command5.sh
+ 1206  ./command5.sh
+ 1207  ./command6.sh
+ 1208  ./command7.sh
+ 1209  chmod +x command7.sh
+ 1210  ./command7.sh
+ 1211  cd Desktop/assignment/
+ 1212  touch README.md
+ 1213  git init 
+ 1214  git commit -m "first commit"
+ 1215  touch README.md
+ 1216  git init 
+ 1217  git commit -m "first commit"
+ 1218  git remote add origin https://github.com/prashant-webonise/Assignment.git
+ 1219  git push -u origin master
+ 1220  git remote add origin git@github.com:prashant-webonise/Assignment.git
+ 1221  touch README.md
+ 1222  git init 
+ 1223  git add README.md
+ 1224  git commit -m "first commit"
+ 1225  ll
+ 1226  git remote add origin git@github.com:prashant-webonise/Assignment.git
+ 1227  git push -u origin master
+ 1228  git add assignment.log
+ 1229  git add command1.sh
+ 1230  git status 
+ 1231  git add command2.sh
+ 1232  git add command3.sh
+ 1233  git add command4.sh
+ 1234  git add command5.sh
+ 1235  git add command6.sh
+ 1236  git add command7.sh
+ 1237  git status 
+ 1238  git commit -m "done done done"
+ 1239  git status 
+ 1240  ll
+ 1241  git push
+ 1242  ll
+ 1243  exit
+ 1244  history 
+ 1245  cd Desktop/
+ 1246  history > s.log
+ 1247  gedit s.log 
+ 1248  mysql 
+ 1249  mysql su -p
+ 1250  mysql su -l
+ 1251  mysql su -p
+ 1252  which
+ 1253  which mysql
+ 1254  su
+ 1255  sdf
+ 1256  sudo su -l
+ 1257  exit
+ 1258  sudo su -l
+ 1259  mysql -u root -p
+ 1260  de Downloads/
+ 1261  cd Downloads/
+ 1262  ll
+ 1263  wine BlueStacks-SplitInstaller_native.exe 
+ 1264  sudo apt-get update
+ 1265  mysql -u root -p
+ 1266  XULRunner
+ 1267  sudo apt-get install XULRunner
+ 1268  sudo apt-get --only-upgrade install google-chrome-stable
+ 1269  cd Downloads/
+ 1270  sudo apt-get uninstall firefox
+ 1271  firefox
+ 1272  sudo apt-get remove firefox
+ 1273  ll
+ 1274  ls
+ 1275  cd firefox-tar xjf firefox-30.0.tar.bz2
+ 1276  tar xjf firefox-30.0.tar.bz2
+ 1277  sudo rm -r /opt/firefox
+ 1278  sudo mv firefox /opt/firefox30
+ 1279  sudo ln -s /opt/firefox30/firefox /usr/bin/firefox
+ 1280  tar xjf firefox-30.0.tar.bz2
+ 1281  cd Dow
+ 1282  cd Downloads/
+ 1283  tar xjf firefox-30.0.tar.bz2
+ 1284  sudo rm -r /opt/firefox
+ 1285  sudo mv firefox /opt/firefox30
+ 1286  cd NetBeansProjects/sample/public_html/
+ 1287  ll
+ 1288  pwd
+ 1289  cd /home/webonise/Desktop/
+ 1290  ll
+ 1291  cd assignment/
+ 1292  ll
+ 1293  cd -
+ 1294  cd /home/webonise/NetBeansProjects/sample/public_html
+ 1295  ll
+ 1296  cd -
+ 1297  cd assignment/
+ 1298  mkdir number-game
+ 1299  cp index.html number-game/.
+ 1300  mv index.html number-game/.
+ 1301  mv colours.js number-game/.
+ 1302  mv myScript.js number-game/.
+ 1303  cd number-game/
+ 1304  ll
+ 1305  cd ..
+ 1306  cat .git/config 
+ 1307  git statuws
+ 1308  git status
+ 1309  git add number-game/*
+ 1310  git status
+ 1311  git commit -m "JQUERY NUMBER GAME"
+ 1312  git pull origin master ster
+ 1313  git pull origin master
+ 1314  git push
+ 1315  cd /home/webonise/NetBeansProjects/graph
+ 1316  ll
+ 1317  cd www/
+ 1318  ll
+ 1319  firefox index.html 
+ 1320  cd /home/webonise/Desktop/assignment/
+ 1321  ll
+ 1322  git status
+ 1323  git add graph/index.html
+ 1324  git commit -m "graph assignment"
+ 1325  git status
+ 1326  git pull origin master
+ 1327  git push
+ 1328  git add graph/index.html
+ 1329  git add graph/myScript.js
+ 1330  git commit -m "graph assignment"
+ 1331  git push
+ 1332  git pull origin master
+ 1333  git push
+ 1334  cd ..
+ 1335  cd Downloads/
+ 1336  sudo dpkg -i google-chrome-stable_current_i386.deb
+ 1337  sudo dpkg -install google-chrome-stable_current_i386.deb
+ 1338  sudo dpkg -i google-chrome-stable_current_i386.deb
+ 1339  cd ..
+ 1340  cd Desktop/assignment/
+ 1341  git pull origin master
+ 1342  git add design\ pattern/ant_farm.jpg
+ 1343  git add design\ pattern/assignment3\ virtual\ college.odt
+ 1344  git add design\ pattern/virtual_college.jpg
+ 1345  git commit -m "design patterns"
+ 1346  git push
+ 1347* git pull origin masterB
+ 1348  git pull origin master
+ 1349  git add design\ pattern/virtual_college.jpg
+ 1350  git push
+ 1351  git add design\ pattern/virtual_college.jpg
+ 1352  git commit -m "design patterns"
+ 1353  git push
+ 1354  uname
+ 1355  man uname
+ 1356  uname -v
+ 1357  uname -m
+ 1358  uname -vm
+ 1359  uname -mv
+ 1360  home
+ 1361  $HOME
+ 1362  HOME
+ 1363  cd ..
+ 1364  history>q.log
+ 1365  gedit q.log 
+ 1366  cd assignment/parse\ assignment/
+ 1367  ll
+ 1368  gcc main.cpp 
+ 1369  gedit q.log 
+ 1370  history>q.log

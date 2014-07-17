@@ -1,0 +1,108 @@
+create database test;
+
+
+
+/*
+assessment table contains the assessment id as its primary key and the name of the assessment
+*/
+
+create table assessment( 
+	assess_id int, 
+	assess_name varchar(100), 
+	PRIMARY KEY (assess_id)
+);
+
+
+
+
+/*
+user table contains the user id as its primary key and the assessment id as the foreign key of the assessment the user has taken
+*/
+
+create table user( 
+	assess_id int,
+ 	user_id int, 
+ 	PRIMARY KEY (user_id),
+
+ 	FOREIGN KEY (assess_id) REFERENCES assessment(assess_id)
+);
+
+
+
+/*
+question table contains the question id as its primary key and the assessment id as the foreign key of the assessment the the question is in
+*/
+
+create table question(
+	assess_id int,
+	question_id int,
+
+	PRIMARY KEY (question_id),
+	FOREIGN KEY (assess_id) REFERENCES assessment(assess_id)
+);
+
+
+
+/*
+question_option table contains the question id as the foreign key, its statement, the multiple options to the question and a flag to check if the option is correct
+*/
+
+create table question_option(
+	question_id int,
+	question_stmt varchar(200),
+	options varchar(200),
+	is_it_correct int,
+
+	FOREIGN KEY (question_id) REFERENCES question(question_id)
+);
+
+
+
+/*
+ans_given table contains the question id as the foreign key, the user id as the foreign key and the multiple options to the question tracking all the questions and the options attempted by the given user 
+*/
+
+create table ans_given(
+	user_id int,
+	question_id int,
+	options varchar(200),
+
+	FOREIGN KEY (user_id) REFERENCES user(user_id),
+	FOREIGN KEY (question_id) REFERENCES question(question_id)
+);
+
+
+
+
+
+/*
+this query gives what all users have given the test and their respective score
+*/
+
+select ans_given.user_id, count(question_option.question_id) as score from question_option inner join ans_given where question_option.question_id=ans_given.question_id and question_option.options=ans_given.options and is_it_correct=1;
+
+
+
+/*
+this query gives what all users have given the assessment with all questions in it and all the options in a question and which of them are correct and what user has chosen what options 
+*/
+
+
+CREATE VIEW view_all_details AS select distinct user.user_id, user.assess_id, question.question_id, question_option.question_stmt, question_option.options, question_option.is_it_correct, ans_given.options as Chosen from user  left outer join  question on  user.assess_id = question.assess_id left outer join  question_option on  question.question_id = question_option.question_id left outer join  ans_given  on  ans_given.options = question_option.options and ans_given.question_id = question_option.question_id and ans_given.user_id=user.user_id and question.question_id=ans_given.question_id;
+
+
+
+/*
+this query gives the view in pivot format
+*/
+create view pivot_table as (
+  select
+    view_all_details.user_id,
+    case when question_stmt = "what is java" then Chosen end as question1,
+    case when question_stmt = "what is c++" then Chosen end as question2,
+    case when question_stmt = "what is sql" then Chosen end as question3
+  from view_all_details
+);
+
+
+

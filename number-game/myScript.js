@@ -7,7 +7,7 @@ $(document).ready(function(){
                     }
                     else
                     if($(this).css("background-color")!="transparent"){
-                        alert("already selected with "+$(this).css("background-color"));
+                        alert("already selected ");
                     }
                     else{
                         $(this).css("background-color", w);
@@ -39,32 +39,32 @@ $(document).ready(function(){
                 
                 
                 $("#shuf").click(function(){
-                    var loop=Math.floor(Math.random()*9)+1;
+                    var loopcount=Math.floor(Math.random()*9)+1;
                     
-                    for(var i=1;i<loop;i++){                           
+                    for(var i=1;i<loopcount;i++){                           
                         
-                        var id1=Math.floor(Math.random()*9)+1;
-                        var id2=Math.floor(Math.random()*9)+1;
+                        var random_cell_1=Math.floor(Math.random()*9)+1;
+                        var random_cell_2=Math.floor(Math.random()*9)+1;
                         
-                        while(id1==id2){
-                            id1=Math.floor(Math.random()*9)+1;
-                            id2=Math.floor(Math.random()*9)+1;
+                        while(random_cell_1==random_cell_2){
+                            random_cell_1=Math.floor(Math.random()*9)+1;
+                            random_cell_2=Math.floor(Math.random()*9)+1;
                         }
                         
-                        id1=id1.toString();
-                        id2=id2.toString();
+                        random_cell_1=random_cell_1.toString();
+                        random_cell_2=random_cell_2.toString();
                         
-                        var val1=$("#"+id1).text();
-                        var col1=$("#"+id1).css("background-color");
+                        var cell1_value=$("#"+random_cell_1).text();
+                        var cell1_color=$("#"+random_cell_1).css("background-color");
                         
-                        var val2=$("#"+id2).text();
-                        var col2=$("#"+id2).css("background-color");
+                        var cell2_value=$("#"+random_cell_2).text();
+                        var cell2_color=$("#"+random_cell_2).css("background-color");
                         
-                        $("#"+id1).text(val2);
-                        $("#"+id1).css("background-color", col2);
+                        $("#"+random_cell_1).text(cell2_value);
+                        $("#"+random_cell_1).css("background-color", cell2_color);
                         
-                        $("#"+id2).text(val1);
-                        $("#"+id2).css("background-color", col1);
+                        $("#"+random_cell_2).text(cell1_value);
+                        $("#"+random_cell_2).css("background-color", cell1_color);
                     }                   
                 });
             })
