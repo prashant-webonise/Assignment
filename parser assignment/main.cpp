@@ -1,20 +1,19 @@
-/* 
- * File:   main.cpp
- * Author: Prashant Singh
- *
- * Created on 17 July, 2014, 10:40 AM
- 
- this file has following classes in it
- 	Identify_language
- 	PRINT
- 	PHP
- 	JAVA
- 	RUBY
- 	BusinessLogic:
- 		this is the invoking class
- 
- 
- 
+/*
+* File: main.cpp
+* Author: Prashant Singh
+*
+* Created on 17 July, 2014, 10:40 AM
+ * this file has following classes in it
+ * -Identify_language:
+ *      this class scans the file and determines the language
+ * -PRINT
+ *      this class does only the printing purpose
+ * -PHP
+ * -JAVA
+ * -RUBY
+ * -BusinessLogic:
+ *      this is the invoking class which deals with all parsing purpose
+ *      upon deciding the language of the file it invokes the appropriate PHP, JAVA, RUBY class
  */
 
 #include <iostream>;
