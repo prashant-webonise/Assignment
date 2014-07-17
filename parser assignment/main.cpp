@@ -3,6 +3,17 @@
  * Author: Prashant Singh
  *
  * Created on 17 July, 2014, 10:40 AM
+ 
+ this file has following classes in it
+ 	Identify_language
+ 	PRINT
+ 	PHP
+ 	JAVA
+ 	RUBY
+ 	BusinessLogic
+ 
+ 
+ 
  */
 
 #include <iostream>;
