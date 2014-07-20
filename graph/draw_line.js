@@ -1,4 +1,4 @@
-function Line(X,Y,C){
+function Equation(X,Y,C){
     this.X=X,
     this.Y=Y,
     this.C=C
@@ -8,7 +8,7 @@ function drawingBoard(){
     pen : document.getElementById("board").getContext("2d");
 }
 
-Line.prototype.draw = function(){
+Equation.prototype.draw = function(){
 
     var mypen = new drawingBoard();
 
@@ -55,7 +55,7 @@ function processEqn(){
     var t1=parseInt(str.substring(0,str.indexOf("X")));
     var t2=parseInt(str.substring(str.indexOf("X")+1,str.indexOf("Y")));
     var t3=parseInt(str.substring(str.indexOf("=")+1));
-    var plot = new Line(t1,t2,t3);
+    var plot = new Equation(t1,t2,t3);
     return plot;
 }
 
