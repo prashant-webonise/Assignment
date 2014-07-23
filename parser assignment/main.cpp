@@ -49,7 +49,6 @@ public:
             infile.open(filename.c_str());
             while(getline(infile,token)){
                 if(token.find("end")!=std::string::npos){
-                    infile.close();
                     t= "ruby";
                     infile.close();
                     return t;
