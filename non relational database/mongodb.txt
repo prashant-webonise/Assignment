@@ -1,0 +1,192 @@
+
+MongoDB is a cross-platform, document oriented database that provides, high performance, high availability, and easy scalability. MongoDB works on concept of collection and document.
+
+Database  contains a set of collections.  A single MongoDB server typically has multiple databases.
+Collection is a group of  documents.
+
+A document is a set of key-value pairs. Documents have dynamic schema. Every document may have different and dynamic key-value pairs. Documents in the same collection do not need to have the same set of fields or structure. Documents may hold different types of data.
+
+Below given table shows the relationship of RDBMS terminology with MongoDB
+RDBMS
+MongoDB
+Database
+Database
+Table
+Collection
+Tuple/Row
+Document
+column
+Field
+
+
+Advantages of MongoDB
+Since there is no schema, only the required info will be stored.
+Open source.
+Available to both horizontal and verticle scaling.
+Very fast.
+No relational concept.
+
+Disadvantages of MongoDB
+Concurrency Issues.
+When you perform a write operation in MongoDB, it creates a lock on the entire database, not just the affected entries, and not just for a particular connection. This lock blocks not only other write operations, but also read operations.
+Memory Usage
+MongoDB has the natural tendency to use up more memory because it has to store the key names within each document
+
+
+
+BASE
+
+Basically Available indicates that the system does guarantee availability.
+It use replication to reduce the chances of data unavailability and use sharding or partitioning the data at different sites. The result is a system that is always available, even if parts of the data become unavailable for certain of time 
+
+Soft state indicates that the state of the system may change over time, even without any input. NoSQL allow data to be inconsistent and allow designing around it. This is because of the eventual consistency model.
+
+Eventual consistency indicates that the system will become consistent over time, given that the system doesn't receive input during that time. Applications must deal with consistency data ,  ACID systems enforce consistency of data. NoSQL ensure that at some future point in time the data assumes a consistent state.NoSQL guarantees consistency only at some undefined future time. 
+
+
+
+
+
+
+
+Creating assessment database
+use assessment
+
+
+Query for creating Assessment, Questions under Assessment and Adding multiple options to single question.
+
+
+db.assess.insert (
+	{
+		assess_id:1,
+		question:
+			[
+				{
+					question_id:1,
+					stmt:'what is java',
+					option:[
+						{option1:"oops"},
+						{option2:"unknown"}
+					],
+					correct:"oops"
+				},
+				{
+					question_id:2,
+					stmt:'what is c++',
+					option:[
+						{option1:"language"},
+						{option2:"dont know"},
+						{option3:"mars"}
+					],
+					correct:'language'
+				}
+			]
+	}
+)
+
+
+
+
+
+
+
+
+db.assess.insert (
+	{
+		assess_id:2,
+		question:
+			[
+				{
+					question_id:1,
+					stmt:'what is earth',
+					option:[
+						{option1:"ms"},
+						{option2:"unknown"}
+					],
+					correct:"oops"
+				},
+				{
+					question_id:2,
+					stmt:'what is c',
+					option:[
+						{option1:"old language"},
+						{option2:"dont know"}
+					],
+					correct:'old language'
+				},
+				{
+					question_id:3,
+					stmt:'what is earth',
+					option:[
+						{option1:"planet"},
+						{option2:"moon"}
+					],
+					correct:'planet'
+				}
+			]
+	}
+)
+
+
+
+
+
+
+
+
+Query for creating creating user containing all the assessments given by him and all the questions attempted by him and the chosen options.
+
+db.user.insert(
+	{
+		user_id:1,
+		assess_given:[
+			{
+				assess_id:1,
+				question:[
+					{
+						question_id:1,
+						chosen:"oops"
+					}
+				]
+			}
+		]
+	}
+)
+
+
+
+
+
+Query for updating Assessment 1's question, and options to it.
+
+db.assess.update( 
+	{ 
+		"assess_id": 1
+	}, 
+	{ 
+		$set: { 
+			"question.0.stmt":" changed question " ,
+			"question.0.option.0.option1":"changed option 1"
+		}
+	}
+)
+
+
+
+
+
+
+Query for deleting Assessment 2's question 3's option 2.
+
+db.assess.update( 
+	{ 
+		"assess_id": 2
+	}, 
+	{ 
+		$unset: { 
+			"question.2.option.1.option2":"moon"
+		}
+	}
+)
+
+
