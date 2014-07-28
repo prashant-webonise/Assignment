@@ -1,6 +1,8 @@
 following tasks are achieved
 
 files:
+
+
 1.      1userInfo.sh
         determines the host name
         determines the OS version and type
